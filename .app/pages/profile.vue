@@ -155,7 +155,7 @@ const handleProfile = async () => {
                       />
 
                       <p v-if="!gender" class="text-danger-500 text-sm mt-1">
-                        Please select your gender.
+                        Please select your preferred gender.
                       </p>
                     </div>
                   </Field>
